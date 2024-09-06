@@ -3,7 +3,7 @@
 
 
 # 💻 BaekJoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojinlee1004)](https://solved.ac/sojinlee1004)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojinlee1004)](https://solved.ac/toulim0620)
 
 # 📝 Projects
 
