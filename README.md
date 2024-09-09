@@ -29,15 +29,12 @@
 
 ###
 
-</div> 
 <br>
-<div align="center">
 
-# 📝 Projects  
+<h1> 📝 Projects </h1>
+</div> 
 
-</div>
-
-## 🎹 FLOFI
+### 🎹 FLOFI
 > 내가 원하는 음악을 Lo-Fi로!
 
 ![화면 캡처 2024-09-06 141512](https://github.com/user-attachments/assets/cce072ec-96cc-4593-a746-67416d9f9d2a)
