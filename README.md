@@ -16,8 +16,7 @@
 
 🌱 동료들과 함께 소통하며 함께 성장하고 싶습니다.
 
-
-###
+<br>
 
 ## 🛠 Skills
 
@@ -31,10 +30,10 @@
 ###
 
 </div> 
-
+<br>
 <div align="center">
 
-# 📝 Projects
+# 📝 Projects  
 
 </div>
 
