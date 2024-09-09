@@ -29,9 +29,11 @@
 
 ###
 
+</div>
 <br>
 
-<h1> 📝 Projects </h1>
+<div align="center">
+## 📝 Projects 
 </div> 
 
 ### 🎹 FLOFI
